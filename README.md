@@ -30,4 +30,10 @@ my college name is ***nakutelidu*** *mirucheppandi*
  # links
  nagurinchi teliyaliante click here [google]e]
  (https://www.google.com)
+ # table 
  
+ s.no|name|marks|
+ -----|-----|-----
+ 1|abc|90
+ 2|bbc|99
+ 3|tv9|100
